@@ -1,0 +1,13 @@
+body
+{
+    background: url('img/natureza-20.gif') fixed;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+
+textarea:hover {
+  background-color: yellow;
+  height:500px;
+}
+
